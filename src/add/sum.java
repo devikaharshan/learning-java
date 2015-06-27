@@ -25,6 +25,7 @@ public class sum {
     public void total()
     {
         System.out.println("the sum is"+(a+b));
+        System.out.println("the diff is"+(a-b));
     }
     
 }
